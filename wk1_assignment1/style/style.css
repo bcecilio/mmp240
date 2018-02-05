@@ -1,0 +1,12 @@
+body{
+	font-family: helvetica;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	background: url(../images/sherman-yang-503440.jpg);
+	background-size: cover;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
