@@ -1,0 +1,40 @@
+body {
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+	padding-top: 15%;
+	width: 100%;
+}
+
+h1 {
+	float: center;
+}
+
+p {
+	float: center;
+	padding-top: .5%;
+}
+
+ul {
+	padding-top: 8%;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	padding-right: 10%;
+	padding-left: 7%;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:link {
+	text-decoration: underline;
+}
+
+a:hover {
+	background-color: 
+}
