@@ -1,0 +1,89 @@
+body{
+	font-family: 'Droid Sans';
+  }
+
+p{
+	font-size: 15px;
+	color: grey;
+	line-height: .1;
+}
+
+h2{
+	letter-spacing: 2px;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+	color: black;
+	padding-top: 10px;
+}
+
+nav li{
+	font-weight: bold;
+	color: black;
+	letter-spacing: .5px;
+}
+
+.nav-link{
+	font-size: 13px;
+}
+
+.video-links{
+	text-align: center;
+	padding: 1% 8% 0 8%;
+}
+
+.container p{
+	padding: 3% 5% 0 8%;
+}
+
+.youtube-links{
+	text-align: center;
+	padding: 1% 8% 0 8%;
+	position: relative;
+}
+
+.container img{
+	padding-bottom: 5%;
+}
+
+.container img:hover{
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+hr{
+	padding-top: 10px;
+}
+
+footer{
+	padding-bottom: 5px;
+}
+// Extra small devices (portrait phones, less than 576px)
+
+// Small devices (landscape phones, 576px and up){}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+ }
